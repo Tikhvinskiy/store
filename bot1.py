@@ -4,6 +4,7 @@ from aiogram.utils import executor
 bot = Bot(token='1668821288:AAHzQ7WlvWTpfL3SHKw7XeChMaGXsIxSDwo')
 dp = Dispatcher(bot)
 
+# rewrwerewrew
 
 @dp.message_handler()
 async def get_message(message: types.Message):
